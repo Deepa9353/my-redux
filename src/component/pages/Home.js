@@ -13,7 +13,7 @@ const Home = () => {
         <Carousel.Item interval={1000}>
           <img
             className="d-block w-100"
-            src="../pablicImages/yes_bank.jpg"
+            src="pablicImages/Yes_bank.jpg"
             alt="First slide"
             height="500px"
             width="1000px"
